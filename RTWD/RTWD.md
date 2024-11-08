@@ -35,3 +35,8 @@ The following table shows the number distribution of each type:
 | Type name | Porosity | Slag | Lack of penetration | Lack of fusion | Crack | Undercut | Concave | Burn through |
 |:----------|:--------:|-----:|:-------------------:|:--------------:|:-----:|:--------:|:-------:|:------------:|
 | Quantity  |   747    |  642 |         26          |      295       |  15   |   151    |   128   |     103      |
+
+
+## Download
+Please visit the following link to download all data.
+https://drive.google.com/drive/folders/1znCDlWC1iAnxWPr2xn6uFAbjdq9azD5M?usp=drive_link
