@@ -12,4 +12,4 @@ norm_pix_loss=False，
 mask_ratio=0.75，
 obj_mask_ratio=0.45
 -------------------
-The download link is: https://drive.google.com/file/d/1clt6SEbdQMaff_FEbUp4njQclrj1lsdz/view?usp=drive_link
+The download link is: https://drive.google.com/file/d/1clt6SEbdQMaff_FEbUp4njQclrj1lsdz/view?usp=sharing
