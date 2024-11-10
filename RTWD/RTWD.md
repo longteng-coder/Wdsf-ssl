@@ -39,4 +39,4 @@ The following table shows the number distribution of each type:
 
 ## Download
 Please visit the following link to download all data.
-https://drive.google.com/drive/folders/1znCDlWC1iAnxWPr2xn6uFAbjdq9azD5M?usp=drive_link
+https://drive.google.com/drive/folders/1znCDlWC1iAnxWPr2xn6uFAbjdq9azD5M?usp=sharing
