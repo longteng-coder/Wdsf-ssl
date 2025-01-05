@@ -1,4 +1,4 @@
-# Wds-ssf
+# Wdsf-ssl
 This is a implementation of the paper “A Weld Defect Segmentation Framework Based on Visual Self-Supervised Learning”
 
 
